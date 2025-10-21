@@ -6,7 +6,7 @@ export default function Home() {
         <main className="py-8">
             <div className="container px-4 lg:px-0 lg:mx-auto text-center">
                 <div className="flex justify-center mb-8">
-                    <Image src="/logo.svg" alt="Logo Samstick" width={200} height={200} />
+                    <Image src="logo.svg" alt="Logo Samstick" width={200} height={200} />
                 </div>
                 <h1 className="text-4xl font-bold mb-4">Samstick</h1>
                 <p className="text-lg mb-4">
