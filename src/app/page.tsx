@@ -10,9 +10,9 @@ export default function Home() {
                 </div>
                 <h1 className="text-4xl font-bold mb-4">Samstick</h1>
                 <p className="text-lg mb-4">
-                    Testez vos connaissances sur le hockey en devinant si le joueur est droitier ou gaucher, ou s'il a du tape noir ou blanc.
+                    Testez vos connaissances sur le hockey en devinant si le joueur est droitier ou gaucher, ou s&apos;il a du tape noir ou blanc.
                     <br />
-                    Jeu inspiré par <a href="https://www.instagram.com/montembeault.samuel/">&apos;@montembeault.samuel&apos;</a> et <a href="https://www.instagram.com/drettesultape/">&apos;@drettesultape&apos;</a>.
+                    Jeu inspiré par <a href="https://www.instagram.com/montembeault.samuel/">@montembeault.samuel</a> et <a href="https://www.instagram.com/drettesultape/">@drettesultape</a>.
                 </p>
             </div>
             <div className="container px-4 lg:px-0 lg:mx-auto text-center mt-8">
